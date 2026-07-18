@@ -20,9 +20,3 @@
 
 - The database must maintain real-time availability status for each venue on different dates.
 
-
-If you want to contribute to this project, follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
