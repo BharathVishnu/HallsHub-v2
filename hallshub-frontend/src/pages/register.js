@@ -108,4 +108,5 @@ const Register = () => {
   );
 };
 
-export default R
+export default Register
+

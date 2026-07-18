@@ -10,7 +10,6 @@ export default function Booking() {
   const [toDateTime, setToDateTime] = useState("");
   const [venue, setVenue] = useState("");
 
-  // Fake venues so UI still works
   const allvenues = [
     { roomname: "Main Hall" },
     { roomname: "Conference Room" },
